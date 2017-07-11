@@ -3,6 +3,7 @@
 You should understand how to use Git and Github, which you can learn using any of these free resources:
 
 **Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
+- [Coding Train Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
